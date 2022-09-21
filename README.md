@@ -11,10 +11,12 @@
 
 ## Github Analytics
   
-[![Gabriel Evaristo's GitHub Stats](https://github-readme-stats.vercel.app/api/?username=EvaristoGabriel&include_all_commits=true&count_private=true&theme=tokyonight&showicons=true)]()
-
-[![Gabriel Evaristo's GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=EvaristoGabriel&layout=compact&langs_count=12&theme=tokyonight)]()
-
+<a href="#" onclick="return false;">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=EvaristoGabriel&show_icons=true&theme=tokyonight&line_height=27&count_private=true&include_all_commits=true"/>
+</a>
+<a href="#" onclick="return false;">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EvaristoGabriel&theme=tokyonight&layout=compact&langs_count=12&count_private=true" />
+</a>
 
   ## 🧔🏻‍♂️ Social Links
   
